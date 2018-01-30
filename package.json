@@ -18,6 +18,6 @@
   "homepage": "https://github.com/ldn0x7dc/react-native-transformable-image#readme",
   "dependencies": {
     "prop-types": "^15.6.0",
-    "react-native-view-transformer": "github:borgand/react-native-view-transformer"
+    "react-native-view-transformer": "github:borgand/react-native-view-transformer#e73c9e5"
   }
 }
